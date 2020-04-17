@@ -1,3 +1,3 @@
-module github.com/streadway/amqp
+module github.com/pennz/amqp-1
 
-go 1.10
+go 1.14
